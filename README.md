@@ -1,6 +1,6 @@
 # ninetynine-s-games
 
-games unbl0cked
+games unbl0cked/
 None are made by me:
 
 Asteroids:
